@@ -63,7 +63,6 @@ This project presents a comprehensive **Uber Trip Analysis Dashboard** built in 
 - 📤 **Export Button** for downloading raw data (Power Automate / Export feature)
 
 ---
-Dashboard.png
-https://github.com/maniishmishra/Uber-Dashboard/blob/main/Dashboard.png
+<img width="888" height="494" alt="Image" src="https://github.com/user-attachments/assets/c2766800-94c7-43ba-8b36-fa7117ae93c9" />
 ## 📁 Folder Structure
 
