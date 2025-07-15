@@ -64,5 +64,6 @@ This project presents a comprehensive **Uber Trip Analysis Dashboard** built in 
 
 ---
 Dashboard.png
+https://github.com/maniishmishra/Uber-Dashboard/blob/main/Dashboard.png
 ## 📁 Folder Structure
 
